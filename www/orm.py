@@ -4,7 +4,6 @@ __author__ = 'JJW'
 import asyncio
 import logging
 import aiomysql
-import
 
 
 def log(sql, args=()):
